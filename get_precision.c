@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 nclude "main.h"
+=======
+#include "main.h"
+>>>>>>> 56b1fd98072816fd09768a83872fb18511df698b
 
 /**
  * get_precision - Calculates the precision for printing
@@ -39,3 +43,7 @@ int get_precision(const char *format, int *i, va_list list)
 
 	return (precision);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 56b1fd98072816fd09768a83872fb18511df698b
